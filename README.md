@@ -3,7 +3,7 @@
 - 📖 Estudando Analise e Desenvolvimentos de Sistemas
 
 <div align="center">
-  <a href="https://github.com/Legolas67-dev">
+  <a href="https://github.com/NicolasR-S">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Legolas67-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legolas67-dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
