@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/NicolasR-S">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Legolas67-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasR-S&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasR-S&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
@@ -25,7 +25,7 @@
   <a href = "mailto:nicolassecilio7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolas-secilio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-   ![Snake animation](https://github.com/Legolas67-dev/Legolas67-dev/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/NicolasR-S/NicolasR-S/blob/output/github-contribution-grid-snake.svg)
  
   
 </div>
