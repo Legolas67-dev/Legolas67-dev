@@ -1,6 +1,6 @@
 ### Ola eu sou o Nicolas 👋
 - 🔭 Procurando Vagas back ou front-end
-- 📖 Estudando Analise e Desenvolvimentos de Sistemas
+- 📖 Formado em Analise e Desenvolvimentos de Sistemas
 
 <div align="center">
   <a href="https://github.com/NicolasR-S">
