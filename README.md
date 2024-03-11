@@ -1,5 +1,5 @@
 ### Ola eu sou o Nicolas 👋
-- 🔭 Procurando estagio back ou front-end
+- 🔭 Procurando Vagas back ou front-end
 - 📖 Estudando Analise e Desenvolvimentos de Sistemas
 
 <div align="center">
